@@ -1,0 +1,17 @@
+Package: ticr
+Title: Play Tic-Tac-Toe in R Shiny
+Version: 0.0.0.9000
+Authors@R: 
+    person("Vladimir", "Ivanov", , "Vlladdimmir@yandex.ru", role = c("aut", "cre"))
+Description: Implements the classic Tic-Tac-Toe game using R and Shiny. Players can play against a friend in a local session.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Imports: 
+    dplyr,
+    shiny,
+    bslib
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
