@@ -1,8 +1,8 @@
 Markdown
 
-# ticr ❌⭕
-
+📌 ticr <img src="man/figures/logo.png" align="right" height="139" />
 <!-- badges: start -->
+![Lifecycle: experimental](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 <!-- badges: end -->
 
 The goal of **ticr** is to play the classic Tic-Tac-Toe game directly in your R console. This package was developed to demonstrate how to build interactive applications using R.
